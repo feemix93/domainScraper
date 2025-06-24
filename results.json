@@ -1,0 +1,100 @@
+[
+  {
+    "domain": "iandrew.orgi",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:iandrew.orgi",
+        "url": "https://news.google.com/search?q=site%3Aiandrew.orgi&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "newminnesotastadium.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:newminnesotastadium.com",
+        "url": "https://news.google.com/search?q=site%3Anewminnesotastadium.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "aivea.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:aivea.com",
+        "url": "https://news.google.com/search?q=site%3Aaivea.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "citizen.xyz",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:citizen.xyz",
+        "url": "https://news.google.com/search?q=site%3Acitizen.xyz&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "Kazan.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Kazan.com",
+        "url": "https://news.google.com/search?q=site%3AKazan.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "BrightPixel.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:BrightPixel.com",
+        "url": "https://news.google.com/search?q=site%3ABrightPixel.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "RbfHealth.org",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:RbfHealth.org",
+        "url": "https://news.google.com/search?q=site%3ARbfHealth.org&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  }
+]

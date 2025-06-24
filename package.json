@@ -1,0 +1,16 @@
+{
+  "name": "google-news-domain-checker",
+  "version": "1.0.0",
+  "description": "Script to check if domains are valid Google News sources",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "nodemon": "^3.1.10",
+    "puppeteer": "^21.0.0"
+  }
+}
