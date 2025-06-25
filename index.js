@@ -83,13 +83,58 @@ function loadDomains() {
   } else {
     // Default list of domains to check
     return [
-      "iandrew.orgi",
+      "isolanews.net",
+      "istudentpro.com",
+      "iandrew.org",
       "newminnesotastadium.com",
       "aivea.com",
       "citizen.xyz",
       "Kazan.com",
       "BrightPixel.com",
       "RbfHealth.org",
+      "Nevale.com",
+      "BusinessAssurance.com",
+      "StrongBet.com",
+      "AacoFarmersMarket.com",
+      "Pfks.com",
+      "lu10radioazul.com",
+      "FlaskBb.org",
+      "EcomInt.com",
+      "mydroll.com",
+      "DaenOtes.com",
+      "HolEinTheWallCamps.org",
+      "GroopIt.com",
+      "Exalab.com",
+      "PurAvive.com",
+      "Furri.com",
+      "GmacInsurance.com",
+      "Ubms.com",
+      "elcabildo.org",
+      "OmniVector.com",
+      "Tayai.com",
+      "spiritualite-chretienne.com",
+      "SaPata.com",
+      "Inftech.com",
+      "HealthClass.com",
+      "Pvzk.com",
+      "SovietSuPrem.com",
+      "MoodPanda.com",
+      "RetroTopia.com",
+      "Pokies.net",
+      "GardenPride.com",
+      "Mabbo.com",
+      "RigOra.com",
+      "Origines.com",
+      "VarChi.com",
+      "LuxuryMag.com",
+      "guideauto.com",
+      "MuseoCatAcumbas.com",
+      "SoarTex.net",
+      "InmoNova.com",
+      "NutRidenSe.com",
+      "MagnetAgency.com",
+      "TradesIndia.com",
+      "NordicBrand.com",
     ];
   }
 }
@@ -235,7 +280,21 @@ async function checkDomain(domain, browser, progressBar) {
                 console.log(
                   chalk.green(`[RESULTS FOUND] Text content: "${text}"`)
                 );
-                return true;
+                const noResultsElement = await page.$(
+                  "div.UW0SDc article div.m5k28 div.B6pJDd div.oovtQ > div > div"
+                );
+
+                if (noResultsElement) {
+                  const text1 = await page.evaluate(
+                    (el) => el.textContent,
+                    noResultsElement
+                  );
+                  if (text1.toLowerCase() === domain.toLowerCase()) {
+                    return true;
+                  } else {
+                    return false;
+                  }
+                }
               }
             } else {
               console.log(

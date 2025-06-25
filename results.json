@@ -1,14 +1,42 @@
 [
   {
-    "domain": "iandrew.orgi",
+    "domain": "isolanews.net",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:isolanews.net",
+        "url": "https://news.google.com/search?q=site%3Aisolanews.net&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "istudentpro.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:istudentpro.com",
+        "url": "https://news.google.com/search?q=site%3Aistudentpro.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "iandrew.org",
     "isValidSource": false,
     "validationUrl": null,
     "searchResults": [
       {
         "strategy": "Site query",
         "region": "en-US",
-        "query": "site:iandrew.orgi",
-        "url": "https://news.google.com/search?q=site%3Aiandrew.orgi&hl=en-US&gl=US&ceid=US:en",
+        "query": "site:iandrew.org",
+        "url": "https://news.google.com/search?q=site%3Aiandrew.org&hl=en-US&gl=US&ceid=US:en",
         "success": false
       }
     ]
@@ -93,6 +121,608 @@
         "region": "en-US",
         "query": "site:RbfHealth.org",
         "url": "https://news.google.com/search?q=site%3ARbfHealth.org&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Nevale.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Nevale.com",
+        "url": "https://news.google.com/search?q=site%3ANevale.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "BusinessAssurance.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:BusinessAssurance.com",
+        "url": "https://news.google.com/search?q=site%3ABusinessAssurance.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "StrongBet.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:StrongBet.com",
+        "url": "https://news.google.com/search?q=site%3AStrongBet.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "AacoFarmersMarket.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:AacoFarmersMarket.com",
+        "url": "https://news.google.com/search?q=site%3AAacoFarmersMarket.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "Pfks.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Pfks.com",
+        "url": "https://news.google.com/search?q=site%3APfks.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "lu10radioazul.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:lu10radioazul.com",
+        "url": "https://news.google.com/search?q=site%3Alu10radioazul.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "FlaskBb.org",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:FlaskBb.org",
+        "url": "https://news.google.com/search?q=site%3AFlaskBb.org&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "EcomInt.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:EcomInt.com",
+        "url": "https://news.google.com/search?q=site%3AEcomInt.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "mydroll.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:mydroll.com",
+        "url": "https://news.google.com/search?q=site%3Amydroll.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "DaenOtes.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:DaenOtes.com",
+        "url": "https://news.google.com/search?q=site%3ADaenOtes.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "HolEinTheWallCamps.org",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:HolEinTheWallCamps.org",
+        "url": "https://news.google.com/search?q=site%3AHolEinTheWallCamps.org&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "GroopIt.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:GroopIt.com",
+        "url": "https://news.google.com/search?q=site%3AGroopIt.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Exalab.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Exalab.com",
+        "url": "https://news.google.com/search?q=site%3AExalab.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "PurAvive.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:PurAvive.com",
+        "url": "https://news.google.com/search?q=site%3APurAvive.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "Furri.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Furri.com",
+        "url": "https://news.google.com/search?q=site%3AFurri.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "GmacInsurance.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:GmacInsurance.com",
+        "url": "https://news.google.com/search?q=site%3AGmacInsurance.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Ubms.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Ubms.com",
+        "url": "https://news.google.com/search?q=site%3AUbms.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "elcabildo.org",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:elcabildo.org",
+        "url": "https://news.google.com/search?q=site%3Aelcabildo.org&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "OmniVector.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:OmniVector.com",
+        "url": "https://news.google.com/search?q=site%3AOmniVector.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Tayai.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Tayai.com",
+        "url": "https://news.google.com/search?q=site%3ATayai.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "spiritualite-chretienne.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:spiritualite-chretienne.com",
+        "url": "https://news.google.com/search?q=site%3Aspiritualite-chretienne.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "SaPata.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:SaPata.com",
+        "url": "https://news.google.com/search?q=site%3ASaPata.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "Inftech.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Inftech.com",
+        "url": "https://news.google.com/search?q=site%3AInftech.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "HealthClass.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:HealthClass.com",
+        "url": "https://news.google.com/search?q=site%3AHealthClass.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Pvzk.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Pvzk.com",
+        "url": "https://news.google.com/search?q=site%3APvzk.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "SovietSuPrem.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:SovietSuPrem.com",
+        "url": "https://news.google.com/search?q=site%3ASovietSuPrem.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "MoodPanda.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:MoodPanda.com",
+        "url": "https://news.google.com/search?q=site%3AMoodPanda.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "RetroTopia.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:RetroTopia.com",
+        "url": "https://news.google.com/search?q=site%3ARetroTopia.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Pokies.net",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Pokies.net",
+        "url": "https://news.google.com/search?q=site%3APokies.net&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "GardenPride.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:GardenPride.com",
+        "url": "https://news.google.com/search?q=site%3AGardenPride.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Mabbo.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Mabbo.com",
+        "url": "https://news.google.com/search?q=site%3AMabbo.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "RigOra.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:RigOra.com",
+        "url": "https://news.google.com/search?q=site%3ARigOra.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "Origines.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:Origines.com",
+        "url": "https://news.google.com/search?q=site%3AOrigines.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "VarChi.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:VarChi.com",
+        "url": "https://news.google.com/search?q=site%3AVarChi.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "LuxuryMag.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:LuxuryMag.com",
+        "url": "https://news.google.com/search?q=site%3ALuxuryMag.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "guideauto.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:guideauto.com",
+        "url": "https://news.google.com/search?q=site%3Aguideauto.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "MuseoCatAcumbas.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:MuseoCatAcumbas.com",
+        "url": "https://news.google.com/search?q=site%3AMuseoCatAcumbas.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "SoarTex.net",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:SoarTex.net",
+        "url": "https://news.google.com/search?q=site%3ASoarTex.net&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "InmoNova.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:InmoNova.com",
+        "url": "https://news.google.com/search?q=site%3AInmoNova.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "NutRidenSe.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:NutRidenSe.com",
+        "url": "https://news.google.com/search?q=site%3ANutRidenSe.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "MagnetAgency.com",
+    "isValidSource": true,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:MagnetAgency.com",
+        "url": "https://news.google.com/search?q=site%3AMagnetAgency.com&hl=en-US&gl=US&ceid=US:en",
+        "success": true
+      }
+    ]
+  },
+  {
+    "domain": "TradesIndia.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:TradesIndia.com",
+        "url": "https://news.google.com/search?q=site%3ATradesIndia.com&hl=en-US&gl=US&ceid=US:en",
+        "success": false
+      }
+    ]
+  },
+  {
+    "domain": "NordicBrand.com",
+    "isValidSource": false,
+    "validationUrl": null,
+    "searchResults": [
+      {
+        "strategy": "Site query",
+        "region": "en-US",
+        "query": "site:NordicBrand.com",
+        "url": "https://news.google.com/search?q=site%3ANordicBrand.com&hl=en-US&gl=US&ceid=US:en",
         "success": false
       }
     ]
